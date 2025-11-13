@@ -26,7 +26,7 @@ export default function Home() {
       {/* Mission Section */}
       <h2>My Mission</h2>
       <p>
-        My mission is to grow as a Data Analyst who can solve real-world problems
+        My mission is to grow as a AI developer who can solve real-world problems
         through technology and continuous learning, while contributing to impactful
         projects in the future. I aim to transform complex challenges into simple
         solutions by leveraging data, creating applications that make information

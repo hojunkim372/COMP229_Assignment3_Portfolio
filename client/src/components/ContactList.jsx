@@ -94,8 +94,7 @@ export default function ContactList() {
               </>
             ) : (
               <>
-                {c.message}
-                {/* ✅ Admin만 수정/삭제 버튼 보이게 */}
+                {c.message}                
                 {role === "admin" && (
                   <>
                     <button

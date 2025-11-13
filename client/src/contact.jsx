@@ -50,9 +50,8 @@ export default function Contact() {
 
   return (
     <div className="container" style={{ padding: "20px" }}>
-      <h2>📞 Contact Page</h2>
-
-      {/* ✅ Contact Form: 모든 로그인 유저 가능 */}
+      <h2>Contact Page</h2>
+      
       <form
         onSubmit={handleSubmit}
         style={{
